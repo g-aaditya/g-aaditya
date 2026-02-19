@@ -68,8 +68,8 @@ live webcam feeds to improve automotive safety.
 
 ## 📫 Connect With Me
 
--   🔗 LinkedIn: https://www.linkedin.com/
--   💻 GitHub: https://github.com/
+-   🔗 LinkedIn: www.linkedin.com/in/aadityagoshike
+-   💻 GitHub: https://github.com/g-aaditya
 -   📧 Email: aadityagoshike.07@gmail.com
 
 ------------------------------------------------------------------------
