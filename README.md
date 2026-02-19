@@ -57,9 +57,9 @@ live webcam feeds to improve automotive safety.
 
 ## 🏆 Certifications
 
--   Oracle AI Foundations Associate\
--   Oracle Generative AI Professional\
--   Introduction to Modern AI -- CISCO\
+-   Oracle AI Foundations Associate
+-   Oracle Generative AI Professional
+-   Introduction to Modern AI -- CISCO
 -   Programming for Everybody -- University of Michigan
 
 ------------------------------------------------------------------------
@@ -67,7 +67,6 @@ live webcam feeds to improve automotive safety.
 ## 📫 Connect With Me
 
 -   🔗 LinkedIn: www.linkedin.com/in/aadityagoshike
--   💻 GitHub: https://github.com/g-aaditya
 -   📧 Email: aadityagoshike.07@gmail.com
 
 ------------------------------------------------------------------------
