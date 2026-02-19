@@ -3,8 +3,6 @@
 🎓 B.Tech Artificial Intelligence @ SRM Institute of Science and
 Technology\
 🔬 AI Research Intern @ CSIR--Fourth Paradigm Institute (CSIR-4PI)\
-🌍 Interested in AI for Environmental Risk Analysis & Disaster
-Management
 
 ------------------------------------------------------------------------
 
