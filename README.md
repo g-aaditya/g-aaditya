@@ -23,10 +23,10 @@ landslide-prone regions to support real-time disaster impact assessment.
 
 ## 🧠 Technical Skills
 
--   **Programming:** Python, JavaScript, HTML, CSS\
--   **AI/ML:** Machine Learning, Deep Learning, Computer Vision\
--   **Frameworks:** React, FastAPI, Flask\
--   **Tools:** TensorFlow, PyTorch, Git, Jira\
+-   **Programming:** Python, JavaScript, HTML, CSS
+-   **AI/ML:** Machine Learning, Deep Learning, Computer Vision
+-   **Frameworks:** React, FastAPI, Flask
+-   **Tools:** TensorFlow, PyTorch, Git, Jira
 -   **Domains:** Disaster Impact Modelling, Environmental Risk Analysis
 
 ------------------------------------------------------------------------
