@@ -2,7 +2,7 @@
 
 🎓 B.Tech Artificial Intelligence @ SRM Institute of Science and
 Technology\
-🔬 AI Research Intern @ CSIR--Fourth Paradigm Institute (CSIR-4PI)\
+🔬 AI Research Intern @ CSIR--Fourth Paradigm Institute (CSIR-4PI)
 
 ------------------------------------------------------------------------
 
